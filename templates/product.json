@@ -119,11 +119,53 @@
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
+    },
+    "1629881650362d0a8d": {
+      "type": "collage",
+      "blocks": {
+        "1629881650362d0a8d-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/black-and-white-portrait-mens-fashion.jpg",
+            "video_url": "https:\/\/vimeo.com\/116129414",
+            "description": "Describe the video for customers using screen readers",
+            "image_padding": false
+          }
+        },
+        "1629881650362d0a8d-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "secondary_background": false,
+            "second_image": false,
+            "image_padding": false
+          }
+        },
+        "1629881650362d0a8d-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1629881650362d0a8d-0",
+        "1629881650362d0a8d-1",
+        "1629881650362d0a8d-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "column"
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "1629881514628a31bf"
+    "1629881514628a31bf",
+    "1629881650362d0a8d"
   ]
 }
