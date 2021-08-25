@@ -44,19 +44,10 @@
             "description": "Describe the video for customers using screen readers",
             "image_padding": false
           }
-        },
-        "1629880103cf776475-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
         }
       },
       "block_order": [
-        "1629880103cf776475-0",
-        "1629880103cf776475-2"
+        "1629880103cf776475-0"
       ],
       "settings": {
         "heading": "Multimedia collage",
