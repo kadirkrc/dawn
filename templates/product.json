@@ -131,29 +131,10 @@
             "description": "Describe the video for customers using screen readers",
             "image_padding": false
           }
-        },
-        "1629881650362d0a8d-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "secondary_background": false,
-            "second_image": false,
-            "image_padding": false
-          }
-        },
-        "1629881650362d0a8d-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
         }
       },
       "block_order": [
-        "1629881650362d0a8d-0",
-        "1629881650362d0a8d-1",
-        "1629881650362d0a8d-2"
+        "1629881650362d0a8d-0"
       ],
       "settings": {
         "heading": "Multimedia collage",
